@@ -1,0 +1,2 @@
+nom = input("Com et dius?") # Creem un variable la qual li donem a iniciar ens pregunti com ens diem
+print("Hola", nom) # I el que fem aquí es que respongui amb Hola i el nom que fiquem alhora que ens ha preguntat
