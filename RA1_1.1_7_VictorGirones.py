@@ -1,8 +1,0 @@
-num1= int(input())
-num2= int(input())
-resta= (num1 - num2)
-print (resta)
-mult= (num1 * num2)
-print (mult)
-div= (num1 / num2)
-print (div)
